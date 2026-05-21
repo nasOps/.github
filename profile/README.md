@@ -1,6 +1,6 @@
 # nasOps
 
-We are a team of three computer science students at KEA (Copenhagen School of Design and Technology), building and operating **MonkKnows** — a search engine originally written in Python 2.7 in 2009, progressively migrated to Ruby/Sinatra as part of a DevOps course project.
+We are a team of three computer science students at KEA (Erhvervsakademi København), building and operating **MonkKnows** — a search engine originally written in Python 2.7 in 2009, progressively migrated to Ruby/Sinatra as part of a DevOps course project.
 
 ## MonkKnows
 
